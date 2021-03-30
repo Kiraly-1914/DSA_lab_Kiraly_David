@@ -1,0 +1,42 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/DSA/DSA_lab_Kiraly_David/LAB6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe cmTC_e210d/fast && C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_e210d.dir\build.make CMakeFiles/cmTC_e210d.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/DSA/DSA_lab_Kiraly_David/LAB6/cmake-build-debug/CMakeFiles/CMakeTmp'
+A rendszer nem találja a megadott elérési utat.
+CMakeFiles\cmTC_e210d.dir\build.make:84: recipe for target 'CMakeFiles/cmTC_e210d.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_e210d.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/DSA/DSA_lab_Kiraly_David/LAB6/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:140: recipe for target 'cmTC_e210d/fast' failed
+mingw32-make.exe: *** [cmTC_e210d/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/DSA/DSA_lab_Kiraly_David/LAB6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe cmTC_c1c5a/fast && C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_c1c5a.dir\build.make CMakeFiles/cmTC_c1c5a.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/DSA/DSA_lab_Kiraly_David/LAB6/cmake-build-debug/CMakeFiles/CMakeTmp'
+A rendszer nem találja a megadott elérési utat.
+CMakeFiles\cmTC_c1c5a.dir\build.make:84: recipe for target 'CMakeFiles/cmTC_c1c5a.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_c1c5a.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/DSA/DSA_lab_Kiraly_David/LAB6/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:140: recipe for target 'cmTC_c1c5a/fast' failed
+mingw32-make.exe: *** [cmTC_c1c5a/fast] Error 2
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/DSA/DSA_lab_Kiraly_David/LAB6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe cmTC_63c2d/fast && C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_63c2d.dir\build.make CMakeFiles/cmTC_63c2d.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/DSA/DSA_lab_Kiraly_David/LAB6/cmake-build-debug/CMakeFiles/CMakeTmp'
+A rendszer nem találja a megadott elérési utat.
+CMakeFiles\cmTC_63c2d.dir\build.make:84: recipe for target 'CMakeFiles/cmTC_63c2d.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_63c2d.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/DSA/DSA_lab_Kiraly_David/LAB6/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:140: recipe for target 'cmTC_63c2d/fast' failed
+mingw32-make.exe: *** [cmTC_63c2d/fast] Error 2
+
+
+
